@@ -10,6 +10,16 @@
             "applicationComponent": "TEST",
             "state": "noClassicAPI",
             "labels": []
+        },
+        {
+            "tadirObject": "FUGR",
+            "tadirObjName": "SUNI",
+            "objectType": "FUNC",
+            "objectKey": "FUNCTION_SEARCH",
+            "softwareComponent": "SAP_BASIS",
+            "applicationComponent": "TEST",
+            "state": "noClassicAPI",
+            "labels": []
         }
     ]
 }
